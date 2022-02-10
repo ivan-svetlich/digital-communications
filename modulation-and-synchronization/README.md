@@ -1,17 +1,8 @@
-# Codificación de fuente y canal
-
-### Primera parte
-Se agrega al sistema implementado en [Sistemas de modulación en canal AWGN - Sincronismo de portadora](https://github.com/ivan-svetlich/digital-communications/tree/main/modulation-and-synchronization) las etapas correspondientes a la codificación de canal, lo cual implica el diseño de los algoritmos de codificación, decodificación y corrección o detección de errores.
-#### Características:
-* Código de bloque lineal (9,5).
-* Codificación sistemática y detección dura.
-* Modulación BPSK con sincronismo perfecto de símbolo y portadora, modelo de canal AWGN con transferencia plana para el ancho de banda de interés y recepción ́optima.
-
-### Segunda parte
-Se utiliza el algoritmo de codificación de Huffman con fuente extendida de orden 2 y 3 para comprimir el archivo [logo FI.tif](https://github.com/ivan-svetlich/digital-communications/blob/main/source-and-channel-encoding/logo%20FI.tif) y se analizan los resultados obtenidos.
-
+# Sistemas de modulación en canal AWGN - Sincronismo de portadora
+En este proyecto se presenta el modelado de un sistema de comunicación digital sobre un canal con ruido aditivo, blanco y gaussiano (AWGN), mediante
+una simulación realizada en Matlab, en la cual se implementan los esquemas de modulación BPSK, QPSK y 16-QAM. En cada caso, se estudia su desempeño frente a distintas condiciones de ruido y se releva la curva de probabilidad de error de bit en función de la relación señal/ruido. Los esquemas BPSK y QPSK son sometidos a un error de fase de portadora y se comprueba la degradación producida. Los resultados obtenidos son contrastados con los valores teóricos. Por último, se utiliza el sistema modelado para simular la transmisión/recepción de una imagen.
 
 ## Contenidos
-* [Codificación de canal](https://github.com/ivan-svetlich/digital-communications/blob/main/modulation-and-synchronization/modulation-and-synchronization.m)
-* [Algorítmo de Huffman](https://github.com/ivan-svetlich/digital-communications/blob/main/source-and-channel-encoding/huffman-algorithm.m)
+* [Código de simulación](https://github.com/ivan-svetlich/digital-communications/blob/main/modulation-and-synchronization/modulation-and-synchronization.m)
+* [Informe](https://github.com/ivan-svetlich/digital-communications/blob/main/modulation-and-synchronization/Sistemas%20de%20modulaci%C3%B3n%20en%20canal%20AWGN%20-%20Sincronismo%20de%20portadora.pdf)
 * [Informe de proyecto](https://github.com/ivan-svetlich/digital-communications/blob/main/modulation-and-synchronization/Sistemas%20de%20modulaci%C3%B3n%20en%20canal%20AWGN%20-%20Sincronismo%20de%20portadora.pdf)
