@@ -12,7 +12,7 @@ Proyectos de simulación de sistemas de comunicación digital realizados en Matl
 ## Tecnologías
 ### Los proyectos fueron creados con:
 * **Matlab R2021a**: cálculos, simulaciones y gráficos
-* **LaTex**: elaboración de informes
+* **LaTeX**: elaboración de informes
 
 ## Parte I: Sistemas de modulación en canal AWGN - Sincronismo de portadora
 ### Objetivos
