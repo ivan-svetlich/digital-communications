@@ -1,7 +1,7 @@
 # Comunicaciones digitales
 
 ## Contenidos
-* [Información general](#informacion-general)
+* [Información general](#información-general)
 * [Tecnologías](#tecnologías)
 * [Parte I: Sistemas de modulación en canal AWGN - Sincronismo de portadora](#parte-i-sistemas-de-modulación-en-canal-awgn---sincronismo-de-portadora)
 * [Parte II: Codificación de fuente y canal](#parte-ii-codificación-de-fuente-y-canal)
