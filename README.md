@@ -2,9 +2,9 @@
 
 ## Contenidos
 * [Información general](#informacion-general)
-* [Tecnologías](#technologies)
-* [Parte I: Sistemas de modulación en canal AWGN - Sincronismo de portadora](#main-features)
-* [Parte II: Codificación de fuente y canal](https://github.com/ivan-svetlich/bookshelf/blob/main/screenshots/README.md)
+* [Tecnologías](#tecnologias)
+* [Parte I: Sistemas de modulación en canal AWGN - Sincronismo de portadora](#parte-i-sistemas-de-modulación-en-canal-awgn---sincronismo-de-portadora)
+* [Parte II: Codificación de fuente y canal](#parte-ii-codificación-de-fuente-y-canal)
 
 ## Información general
 Proyectos de simulación de sistemas de comunicación digital realizados en Matlab durante la cursada de Teoría de las Comunicaciones (Ing. Electrónica, UNLP).
