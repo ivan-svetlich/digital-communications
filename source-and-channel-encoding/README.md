@@ -12,6 +12,7 @@ Se utiliza el algoritmo de codificación de Huffman con fuente extendida de orde
 
 
 ## Contenidos
-* [Codificación de canal](https://github.com/ivan-svetlich/digital-communications/blob/main/modulation-and-synchronization/modulation-and-synchronization.m)
-* [Algoritmo de Huffman](https://github.com/ivan-svetlich/digital-communications/blob/main/source-and-channel-encoding/huffman-algorithm.m)
+* [Simulaciones](https://github.com/ivan-svetlich/digital-communications/blob/main/modulation-and-synchronization/simulations)
+> [Codificación de canal (código de bloque lineal)](https://github.com/ivan-svetlich/digital-communications/blob/main/modulation-and-synchronization/simulations/block_code.m)
+> [Codificación de fuente (algorítmo de Huffman)](https://github.com/ivan-svetlich/digital-communications/blob/main/modulation-and-synchronization/simulations/huffman_algorithm.m)
 * [Informe de proyecto](https://github.com/ivan-svetlich/digital-communications/blob/main/source-and-channel-encoding/Codificaci%C3%B3n%20de%20fuente%20y%20canal.pdf)
